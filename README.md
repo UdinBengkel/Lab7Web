@@ -4,4 +4,9 @@
 ## NIM: 312410381
 ## Kelas: TI 24 A6
 
-PENJELASAN PRAKTIKUM
+
+## 1. PHP Dasar
+
+Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
+kode seperti berikut.
+
