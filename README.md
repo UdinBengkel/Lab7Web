@@ -8,7 +8,6 @@
 ## 1. PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
 kode seperti berikut.
-
 ```php
 <!DOCTYPE html>
 <html lang="en">
@@ -26,3 +25,14 @@ echo "Hello World";
 ```
 <img src="gambar/1.png" width="500"/>
 
+## 2. Variable PHP
+Menambahkan variable pada program.
+```php
+<?php
+$nim = "0411500400";
+$nama = 'Yansa';
+echo "NIM : " . $nim . "<br>";
+echo "Nama : $nama";
+?>
+```
+<img src="gambar/11.png" width="500"/>
